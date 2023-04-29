@@ -1,5 +1,5 @@
 #Script de instalação de bacula,mysql e baculum no debian 11.
-#Gabriel Santos - 27/04/2023
+#Skykeer- 27/04/2023
 #Versão 1.3
 
 #!/bin/bash
